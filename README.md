@@ -25,7 +25,7 @@ Here, we'll be taking a look together at the code that will implement this funct
 
 Since we've provided you with much of the code for this project, take a few moments to go through the provided files and familiarize yourself with the app. Note that an owner has a name and has many pets and a pet has a name and belongs to an owner. Note that we have two separate controllers, a Pets Controller and an Owners Controller, each of which inherit from the Application Controller. Note that each controller has a set of routes that enable the basic CRUD actions (except for delete, we won't really care about delete for the purposes of this exercise). 
 
-**Make sure you run `rake db:migrate` and `rake db:seed` before you move on**. This will migrate our database and seed it with one owner and two pets to get us started. 
+**Make sure you run `rake db:migrate` and `rake db:seed` before you move on**. This will migrate our database and seed it will one owner and two pets to get us started. 
 
 #### A note on Seed Files
 
